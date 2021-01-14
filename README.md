@@ -1,8 +1,16 @@
 # resume
 
-A little personal project to author a kick-ass resume in HTML or PDF.
+This is a fork of [adrienrn/resume](https://github.com/adrienrn/resume), big thanks to him !
 
-![PDF resume preview](https://raw.githubusercontent.com/adrienrn/resume/dev/screenshot.jpg)
+Next steps will be:  
+- split the puppeteer part in the dockerfile, cleanup
+- implement github actions
+- host the build results on github CDN
+- get a github domain working
+
+## About
+
+A little personal project to author a kick-ass resume in HTML or PDF.
 
 Most of the work is leveraged by [hacksalot/HackMyResume](https://github.com/hacksalot/HackMyResume), kudos to him.
 
