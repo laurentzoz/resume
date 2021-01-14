@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Karla:400,700');
 
 :root {
-  --brand-primary: #5400E5;
+  --brand-primary: #e59c00;
   --brand-primary-alt: hsla(262, 100%, 45%, .1);
   --cs-border: hsl(210, 10%, 85%);
   /*--brand-primary: hsl(233, 100%, 57%);*/
@@ -70,6 +70,7 @@ h2 {
 .section--header {
   grid-column: span 5;
   /*grid-area: header;*/
+  border-bottom: 1px solid var(--cs-border);
 }
 
 .section--employment {
