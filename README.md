@@ -1,5 +1,5 @@
 # resume
-Hosted via Github Pages : https://github.com/laurentzoz/resume
+Hosted via Github Pages : https://laurentzoz.github.io/resume/
 
 This is a fork of [adrienrn/resume](https://github.com/adrienrn/resume), big thanks to him !
 
