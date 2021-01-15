@@ -1,12 +1,7 @@
 # resume
+Hosted via Github Pages : https://github.com/laurentzoz/resume
 
 This is a fork of [adrienrn/resume](https://github.com/adrienrn/resume), big thanks to him !
-
-Next steps will be:  
-- ~~split the puppeteer part in the dockerfile, cleanup~~
-- implement github actions
-- host the build results on github CDN
-- get a github domain working
 
 ## About
 
