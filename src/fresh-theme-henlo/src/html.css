@@ -61,6 +61,7 @@ h2 {
     "side3 side3 main main main"
     "side4 side4 main main main"
   ;
+  grid-template-rows: auto auto auto auto 1fr;
 }
 
 .section {
