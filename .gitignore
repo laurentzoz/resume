@@ -1,6 +1,0 @@
-node_modules/
-/dist
-
-# Some FRESH documents needs to remain out of the repository for privacy
-/src/private-*.json
-
